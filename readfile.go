@@ -1,4 +1,4 @@
-package ConfigModle
+package SelfModle
 
 import (
 	"fmt"
