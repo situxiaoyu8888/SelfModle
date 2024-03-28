@@ -1,4 +1,4 @@
-package ShortUrlGenerator
+package SelfModle
 
 import (
 	"crypto/md5"
