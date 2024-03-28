@@ -1,4 +1,4 @@
-package ClearModle
+package SelfModle
 
 import (
 	"os"
