@@ -1,4 +1,4 @@
-package AesEncrypteDecrypt
+package SelfModle
 
 import (
 	"bytes"
