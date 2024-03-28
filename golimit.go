@@ -1,4 +1,4 @@
-package GoLimit
+package SelfModle
 
 type ChanType struct {
 	ChanNum int
