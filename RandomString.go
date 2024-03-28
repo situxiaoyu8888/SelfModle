@@ -1,4 +1,4 @@
-package RandomString
+package SelfModle
 
 import (
 	"fmt"
